@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+ .header {
+    width: 100%;
+    background: #ffffff;
+    position: relative;
+    z-index: 9;
+}
+.header img{
+	width: 80px;
+	padding-top: 18px;
+	padding-left: 84px;
+}
+.menu{
+	float: right;
+	padding-top: 25px;
+	padding-right: 66px;
+	}
+.menu a {
+	text-decoration: none;
+	margin-left: 10px;
+}
+.image{
+	
+    background-size: 100%;
+    padding-top: 10px;
+    line-height: 10px;
+    background-image: url("https://www.tajhotels.com/content/dam/tajhotels/ba…/jcr:content/renditions/cq5dam.web.1280.1280.jpeg");
+
+}
+
